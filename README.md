@@ -85,9 +85,3 @@ Before running the bot, ensure you have the following:
 - `discord.py` for interacting with the Discord API.
 - `requests` for making API calls to SecurityTrails.
 - `socket` for DNS resolution.
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
